@@ -171,7 +171,7 @@
       "dependencies": {
         "com.unity.xr.management": "3.2.13"
       },
-      "hash": "a6efdede589385468c75bd669790f9b0e9221e18"
+      "hash": "d6c2f0a5620a562fe063fbb13f91c015a0f6411f"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
